@@ -37,7 +37,7 @@ You can deploy this site using [GitHub Pages](https://pages.github.com/) or any 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/portfolio.git
+    git clone https://github.com/sr-wn/portfolio.git
     cd portfolio
     ```
 
